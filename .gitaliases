@@ -1,0 +1,9 @@
+alias gb='git branch'     #list existing local branches
+alias gba='git branch -a' #list existing local and remote branches
+alias gf='git fetch'      #fetch the remote changes but don't apply them
+alias gpu='git pull'      #fetch and merge the remote changes
+alias gp='git push'       #push changelists from local repo to remote repo
+alias gs='git status'     #give the overall status of the current working dir
+alias g=gs                #shortcut for git status
+alias gc='git commit -m'  #commit files in the staging area
+alias ga='git add .'      #add all modified/created files from the current working dir to the stating area
