@@ -1,0 +1,58 @@
+{
+  "caret_style": "phase",
+  "color_scheme": "Packages/Color Scheme - Default/Blackboard.tmTheme",
+  "file_exclude_patterns":
+  [
+    "*.tmLanguage.cache",
+    "*.tmPreferences.cache",
+    "*.psd",
+    "*.psb",
+    "Gemfile.lock",
+    "*.pyc",
+    "*.pyo",
+    "*.exe",
+    "*.dll",
+    "*.obj",
+    "*.o",
+    "*.a",
+    "*.so",
+    "*.dylib",
+    "*.ncb",
+    "*.sdf",
+    "*.suo",
+    "*.pdb",
+    "*.idb",
+    ".DS_Store",
+    "*.pdf",
+    "*.class",
+    "*.swf",
+    "*.xls",
+    "*.bak",
+    "*.backup",
+    "*.acorn",
+    "*.license"
+  ],
+  "folder_exclude_patterns":
+  [
+    ".bundle",
+    ".git",
+    ".sass-cache",
+    "*.esproj",
+    "*.tiles"
+  ],
+  "font_face": "Menlo",
+  "font_size": 12.0,
+  "highlight_line": true,
+  "ignored_packages":
+  [
+    "Vintage"
+  ],
+  "rulers":
+  [
+    80
+  ],
+  "scroll_past_end": false,
+  "tab_size": 2,
+  "theme": "Soda Dark.sublime-theme",
+  "translate_tabs_to_spaces": true
+}
